@@ -1,0 +1,11 @@
+.formSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  color: white;
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(black, grey);
+}
