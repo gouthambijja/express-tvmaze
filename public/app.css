@@ -7,5 +7,7 @@ body {
   color: white;
   width: 100vw;
   height: 100vh;
-  background: linear-gradient(black, green);
+  background: url(closeup_of_taylor_swift_with_lipstick_and_blonde_hair_hd_taylor_swift.jpg);
+  background-position: center;
+  background-size: cover;
 }
